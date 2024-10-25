@@ -1,0 +1,15 @@
+fc7a64e6ea41b35b255af305cff282cf *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+16b27136e887cd6f6ab81aa27772d624 *NEWS.md
+df6cc46bc7fae1a55b713f3d5065b35a *R/ozbabynames-package.R
+936e761e8041f29ec0ea86d9cfd6fcb7 *R/ozbabynames.R
+6b31fe8b0561561e0dd0737cb86033d3 *README.md
+1e6388105a1a0caae04547197c6a666d *data/ozbabynames.rda
+12c5e0b9a2a1dd6ff677fdc533af419d *man/figures/README-animate-explore-author-names-1.gif
+0e1791963bab269b614636d7ab453c1d *man/figures/README-example-plot-1.png
+5ade8928aca2f4027044560033aa3dfe *man/figures/README-explore-author-names-1.png
+688adcb5d268b4eccdb833570b78d1af *man/figures/logo.png
+f73aa72f633d1588d64e9f675e682cdf *man/ozbabynames-package.Rd
+d02c8f6ed54ce1318e7e3e4ac1823944 *man/ozbabynames.Rd
+da36e80e790222ecf7333c22b1e3d97b *tests/testthat.R
+6a78d620f408c6d5c418b23fba8f4f05 *tests/testthat/test-ozbabynames.R
